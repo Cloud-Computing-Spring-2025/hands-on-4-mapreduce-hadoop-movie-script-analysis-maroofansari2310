@@ -1,6 +1,6 @@
 # Analyze the movie script using Hadoop MapReduce
 
-The **Movie Script Analysis** project implements a Hadoop MapReduce program to analyze a movie script dataset. The program processes a movie script where each line represents a character's dialogue.
+The **Movie Script Analysis** project utilizes a Hadoop MapReduce program to examine a movie script dataset, processing each line as a character's dialogue.
 
 # Approach and Implementation
 The key tasks are:
